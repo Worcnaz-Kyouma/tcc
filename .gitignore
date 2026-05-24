@@ -1,0 +1,16 @@
+# Ambiente Python
+venv/
+__pycache__/
+*.pyc
+
+# Dataset
+coco/val2017/
+coco/annotations/
+
+# Pesos de modelos
+*.pt
+*.pth
+
+# Resultados experimentais
+resultados/
+runs/
