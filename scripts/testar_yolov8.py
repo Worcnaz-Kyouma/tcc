@@ -1,5 +1,5 @@
 """
-Nicolas Almeida Prado — UEPG — 2026
+Nicolas Almeida Prado, UEPG:2026
 """
 
 import os
