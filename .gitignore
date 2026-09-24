@@ -14,3 +14,7 @@ coco/annotations/
 # Resultados experimentais
 resultados/
 runs/
+old/
+
+# TCC documentos
+artigo/
